@@ -1,4 +1,4 @@
-package com.example.springboot.topic;
+package com.pranesh.topic;
 
 import java.util.Arrays;
 import java.util.List;

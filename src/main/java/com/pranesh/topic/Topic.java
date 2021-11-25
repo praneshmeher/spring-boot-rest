@@ -1,4 +1,4 @@
-package com.example.springboot.topic;
+package com.pranesh.topic;
 
 public class Topic {
 	
